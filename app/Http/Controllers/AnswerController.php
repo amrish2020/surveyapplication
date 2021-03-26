@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: g
- * Date: 2/7/2017
- * Time: 12:20 PM
- */
-
 namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\Answer;
